@@ -1,0 +1,191 @@
+@media(max-width:575.98px){ 
+    .ban_text{
+        bottom: -200%;
+        left: 0;
+    }
+    .ban_text p{
+        font-size: 16px;
+    }  
+    .ban_text_01{
+        margin-bottom: 20px; 
+        width: 160px;
+        height: 120px;
+    }
+    .ban_text_02{
+        margin-bottom: 20px; 
+        width: 160px;
+        height: 120px;
+    }
+    .ban_text_03{
+        margin-bottom: 20px; 
+        width: 160px;
+        height: 120px;
+    }
+    .ban_text_04{
+        margin-bottom: 20px; 
+        width: 160px;
+        height: 120px;
+    }
+    /* about */
+    .about_text{
+        margin-top: 50%;
+    }
+     .about_vdo{
+        margin-top: 50px;
+    }
+     /* aim section */
+     .aim_text{
+        margin-top: 50px;
+    }
+    /* why choose section */
+    #why{
+        padding-top: 30px;
+    }
+    /* footer */
+    .footer_middle{
+        margin: 80px 0;
+        padding-left: 0;
+    }
+    .footer_right{
+        padding-left: 0;
+    }
+}
+
+@media (min-width:576px) and (max-width:767.98px){
+    .ban_text{
+        bottom: -78%;
+    }
+    .ban_text p{
+        font-size: 25px;
+    }
+    .ban_text_01{
+        margin-bottom: 20px; 
+        width: 200px;
+        height: 150px;
+    }
+    .ban_text_02{
+        margin-bottom: 20px; 
+        width: 200px;
+        height: 150px;
+    }
+    .ban_text_03{
+        margin-bottom: 20px; 
+        width: 200px;
+        height: 150px;
+    }
+    .ban_text_04{
+        margin-bottom: 20px; 
+        width: 200px;
+        height: 150px;
+    }
+    /* about */
+    .about_text{
+        margin-top: 15%;
+    }
+     .about_vdo{
+        margin-top: 30px;
+    }
+     /* aim section */
+     .aim_text{
+        margin-top: 50px;
+    }
+     /* footer */
+     .footer_middle{
+        margin: 80px 0;
+        padding-left: 0;
+    }
+    .footer_right{
+        
+        padding-left: 0;
+    }
+}
+
+@media (min-width:768px) and (max-width:991.98px){
+    .ban_text{
+        bottom: -51%;
+    }
+    .ban_text_01{
+        margin-bottom: 25px; 
+    }
+    /* about */
+    .about_text{
+        margin-top: 15%;
+    }
+    .about_vdo{
+        margin-top: 30px;
+    }
+    /* aim section */
+    .aim_text{
+        margin-top: 150px;
+    }
+    /* why choose section */
+    #why{
+        padding-top: 30px;
+    }
+    /* footer */
+    .footer_middle{
+        margin: 80px 0;
+        padding-left: 0;
+    }
+    .footer_right{
+        padding-left: 0;
+    }
+        
+}
+@media (min-width:992px) and (max-width:1199.98px){
+    .nav_menu ul li a{
+        margin-left: 0px;
+    }
+    /* banner */
+    .ban_text {
+        left: 5%;
+        margin: 0 !important;
+    }
+    .ban_text p{
+        font-size: 26px;
+    }
+    .ban_text_01{
+        margin-bottom: 20px; 
+        width: 200px;
+        height: 150px;
+    }
+    .ban_text_02{
+        margin-bottom: 20px; 
+        width: 200px;
+        height: 150px;
+    }
+    .ban_text_03{
+        margin-bottom: 20px; 
+        width: 200px;
+        height: 150px;
+    }
+    .ban_text_04{
+        margin-bottom: 20px; 
+        width: 200px;
+        height: 150px;
+    }
+    /* tainer */
+    .trainer_main{
+        margin-left: 35px; 
+    }
+    .trainer_item h5{
+        text-align: left; 
+    }
+    .trainer_item p{
+        text-align: center; 
+        margin-right: 30px;
+    }
+    /* footer */
+    .footer_middle{
+        padding-left: 0;
+    }
+    .footer_right{
+        padding-left: 0;
+    }
+   
+ 
+}
+/* @media (min-width:1200px) and (max-width:1399.98px){ 
+  
+}
+@media(max-width:1400px){} */
