@@ -36,13 +36,13 @@ In general, health institutes are essential to developing the area of health and
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://jubairrahman.github.io/ciht-/
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd ciht-
 ```
 
 Install dependencies
@@ -50,6 +50,7 @@ Install dependencies
 ```bash
   npm install
 ```
+Download ZIP or Clone Repo
 
 Start the server
 
